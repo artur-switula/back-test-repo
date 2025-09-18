@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: back-test-repo
+  annotations:
+    github.com/project-slug: artur-switula/back-test-repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
